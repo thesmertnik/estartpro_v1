@@ -1,4 +1,3 @@
-document.addEventListener('DOMContentLoaded', loadBG);
 
 // Проверить наличие данных
 if (localStorage.getItem('data')) {
